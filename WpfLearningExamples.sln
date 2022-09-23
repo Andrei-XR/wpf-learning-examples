@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Accessibility", "Accessibility", "{126C92CC-5E7A-40E9-9E12-DD6153D94EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindText", "FindText\FindText.csproj", "{028B5002-4029-4BA8-B611-C58109DA0C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028B5002-4029-4BA8-B611-C58109DA0C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028B5002-4029-4BA8-B611-C58109DA0C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028B5002-4029-4BA8-B611-C58109DA0C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028B5002-4029-4BA8-B611-C58109DA0C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{028B5002-4029-4BA8-B611-C58109DA0C4A} = {126C92CC-5E7A-40E9-9E12-DD6153D94EAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB72A58-D45D-44EC-951D-D0E061ED4BA4}
+	EndGlobalSection
+EndGlobal
